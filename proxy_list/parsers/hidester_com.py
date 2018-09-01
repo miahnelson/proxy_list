@@ -42,7 +42,8 @@ def hidester_com():
             'CZECH REPUBLIC': 'Czechia',
             'IRAN': 'Iran, Islamic Republic of',
             'BOLIVIA': 'Bolivia, Plurinational State of',
-            'TANZANIA': 'Tanzania, United Republic of'
+            'TANZANIA': 'Tanzania, United Republic of',
+            'UNITED STATES': 'United States of America'
         }
 
         if proxy['country'] in countries_iso3166:
